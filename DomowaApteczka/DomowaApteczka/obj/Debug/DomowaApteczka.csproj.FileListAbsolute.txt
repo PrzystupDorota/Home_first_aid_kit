@@ -1,0 +1,17 @@
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\bin\Debug\DomowaApteczka.exe.config
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\bin\Debug\DomowaApteczka.exe
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\bin\Debug\DomowaApteczka.pdb
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.csprojResolveAssemblyReference.cache
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\MainWindow.g.cs
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\App.g.cs
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka_MarkupCompile.cache
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka_MarkupCompile.lref
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\MainWindow.baml
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.g.resources
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.Properties.Resources.resources
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.csproj.GenerateResource.cache
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.csproj.CoreCompileInputs.cache
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.csproj.CopyComplete
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.exe
+c:\users\dprzystu\source\repos\DomowaApteczka\DomowaApteczka\obj\Debug\DomowaApteczka.pdb
