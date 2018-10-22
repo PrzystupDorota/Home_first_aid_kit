@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="SchematBazyApteczka" id="B52F9A2C-E437-9841-0E74-D3A94C822D39" version="3.5">
+<createdBy>dprzystu</createdBy>
+<createdTime>2018-06-11 19:21:22 UTC</createdTime>
+<ownerDesignName>SchematBazyApteczka</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B52F9A2C-E437-9841-0E74-D3A94C822D39</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="E24F372D-0C61-3473-1FC6-6E573BD722DC">
+<designStoragePath>C:\export</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
