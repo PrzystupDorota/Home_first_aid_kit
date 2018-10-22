@@ -2,3 +2,4 @@
 Project with using Oracle database and WPF technology
 
 Description and presentation of few screenshots you can find in Domowa_apteczka_27_05.ppt file.
+You can also find some schema of database in DomowaAprteczka/SchematBazyDanych.dll.
